@@ -11,3 +11,6 @@ ProjectDiscovery/Nuclei - [nuclei](https://github.com/projectdiscovery/nuclei)
 
 ## Log Management
 Airbnb/Streamlert - [Streamlert](https://github.com/airbnb/streamalert)
+
+## CI/CD
+Pipeling Bill of Materials(pbom) - [pbom](https://pbom.dev/)
