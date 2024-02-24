@@ -5,6 +5,9 @@ Lyft/Asset Discovery - [Cartography](https://github.com/lyft/cartography)
 
 CloudDefence/AWS Auto Policy Analyzer - [AWSZeroTrustPolicy](https://github.com/CloudDefenseAI/AWSZeroTrustPolicy)
 
+## Threat Modeling
+Threagile - [threagile](https://github.com/Threagile/threagile)
+
 ## Vulnerability Management
 ProjectDiscovery/Nuclei - [nuclei](https://github.com/projectdiscovery/nuclei)
 
