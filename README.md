@@ -5,6 +5,9 @@ Lyft/Asset Discovery - [Cartography](https://github.com/lyft/cartography)
 
 CloudDefence/AWS Auto Policy Analyzer - [AWSZeroTrustPolicy](https://github.com/CloudDefenseAI/AWSZeroTrustPolicy)
 
+## Security CI
+Husky - [Husky](https://github.com/globocom/huskyCI)
+
 ## Threat Modeling
 Threagile - [threagile](https://github.com/Threagile/threagile)
 
@@ -18,7 +21,9 @@ ProjectDiscovery/cvemap - [cvemap](https://github.com/projectdiscovery/cvemap)
 Airbnb/Streamlert - [Streamlert](https://github.com/airbnb/streamalert)
 
 ## CI/CD
-Pipeling Bill of Materials(pbom) - [pbom](https://pbom.dev/)
+Pipeline Bill of Materials(pbom) - [pbom](https://pbom.dev/)
 
 Check Back Door in 3rd packages - [gitdoor](https://github.com/referefref/gitdoorcheck/tree/main)
 
+## Access Management - 
+Discord/Access - [Access](https://github.com/discord/access)
