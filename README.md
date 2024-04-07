@@ -27,3 +27,14 @@ Check Back Door in 3rd packages - [gitdoor](https://github.com/referefref/gitdoo
 
 ## Access Management - 
 Discord/Access - [Access](https://github.com/discord/access)
+
+## AI Red Team - 
+[Deeplearning](https://lnkd.in/g87-FSQ5)
+
+[Microsoft](https://lnkd.in/gcrf63vu)
+
+[KLU](https://lnkd.in/g5SN8_pp)
+
+[Nihad](https://lnkd.in/g9PprkCv)
+
+[Some More](https://lnkd.in/gqpf3TxH)
