@@ -1,4 +1,4 @@
-# Open Source Tools adn Resources
+# Open Source Tools and Resources
 
 ## Cloud
 Lyft/Asset Discovery - [Cartography](https://github.com/lyft/cartography)
