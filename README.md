@@ -37,6 +37,8 @@ Discord/Access - [Access](https://github.com/discord/access)
 
 [Nihad](https://lnkd.in/g9PprkCv)
 
+[PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)
+
 [Some More](https://lnkd.in/gqpf3TxH)
 
 ## K8
