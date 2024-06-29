@@ -7,6 +7,8 @@ CloudDefence/AWS Auto Policy Analyzer - [AWSZeroTrustPolicy](https://github.com/
 
 Chaos Engineering/ Security Runners - [CloudCommotion](https://github.com/SecurityRunners/CloudCommotion)
 
+Penetration Testing/ Cloudfoxable - [Cloudfoxable](https://github.com/BishopFox/cloudfoxable)
+
 ## Security CI
 Husky - [Husky](https://github.com/globocom/huskyCI)
 
