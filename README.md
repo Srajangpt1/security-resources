@@ -43,6 +43,8 @@ Discord/Access - [Access](https://github.com/discord/access)
 
 [PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)
 
+## Public Pentest Reports - [Repo](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/SPoC/A-LIGN_SPoC_Penetration_Test.pdf)
+
 [Some More](https://lnkd.in/gqpf3TxH)
 
 ## K8
