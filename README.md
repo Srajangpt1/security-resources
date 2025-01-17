@@ -43,6 +43,8 @@ Discord/Access - [Access](https://github.com/discord/access)
 
 [PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/CodeShield)
 
+[Privilege Escalation](https://github.com/HadessCS/Awesome-Privilege-Escalation?tab=readme-ov-file#pass-the-ticket)
+
 ## Public Pentest Reports - [Repo](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/SPoC/A-LIGN_SPoC_Penetration_Test.pdf)
 
 [Some More](https://lnkd.in/gqpf3TxH)
